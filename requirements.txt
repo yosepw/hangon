@@ -1,6 +1,6 @@
-pandas
+# requirements.txt
+flask
 scikit-learn
-matplotlib
-seaborn
-jupyter
+pandas
 joblib
+gunicorn # Recommended for production Flask/FastAPI apps
